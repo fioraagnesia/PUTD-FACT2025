@@ -1,0 +1,501 @@
+Gender,Breed,Culture,Mode of Chick Transport,Profit Margin (%),Timestamp (Month),Timestamp (Year),Weight (kg),Price (IDR),Age of Chicken (Months)
+Female,Broiler,,,-16.878634022183785,1,2023,3.1,64708.7798788858,16.0
+Male,Layer,Free-range setup,Chick supply via air freight,38.827819223824605,1,2024,3.8,99380.85419607942,26.0
+Male,Layer,Battery cage system,Chick supply via air freight,-30.49616390577661,7,2024,1.8,72752.11919093026,25.0
+Male,Layer,Battery cage system,Chick supply via road transport,20.76724043201273,6,2023,1.8,19115.481721687986,2.0
+Female,Dual-purpose,Battery cage system,Chick supply via road transport,16.63692794034535,4,2023,1.9,42507.92664325821,14.0
+Male,,Battery cage system,Chick supply via air freight,41.23087691907978,5,2021,1.4,56459.59585753253,20.0
+Male,Dual-purpose,Thanksgiving,Chick supply via road transport,53.1737144539482,2,2019,3.5,78398.8339648968,25.0
+Female,Dual-purpose,Battery cage system,Chick supply via air freight,23.772838309449536,10,2023,1.8,67157.29382927177,20.0
+Female,Dual-purpose,Thanksgiving,Outside the city by sea,13.266234142482558,8,2021,2.0,63897.200603606434,19.0
+Male,Dual-purpose,Wedding dowry,Outside the city by sea,-16.177057259030576,4,2023,3.8,45654.121739476475,5.0
+,Layer,Wedding dowry,,27.465603939283444,12,2024,4.0,51434.32735454561,10.0
+Male,Layer,,Chick supply via road transport,-58.88617691539933,4,2019,1.7,103769.36187082707,40.0
+Male,Layer,Thanksgiving,,11.741720215723252,6,2024,2.0,21427.30077373691,1.0
+Female,Dual-purpose,Free-range setup,Chick supply via road transport,54.86220698198832,7,2023,3.9,119189.0815598673,37.0
+Male,Layer,Free-range setup,Outside the city by sea,43.67046450075891,1,2019,1.6,30027.861706028165,11.0
+Female,Dual-purpose,Thanksgiving,Chick supply via road transport,20.53710214754188,6,2019,1.6,39003.12488523113,13.0
+Female,Dual-purpose,Wedding dowry,Outside the city by sea,33.71708516930123,12,2023,3.7,119026.21849859091,41.0
+Male,Dual-purpose,Wedding dowry,Chick supply via road transport,49.69424277206744,1,2024,1.4,52234.90296882371,19.0
+Female,Broiler,Free-range setup,Outside the city by sea,23.95792306733086,10,2022,1.9,80749.67264260378,32.0
+Female,Dual-purpose,Wedding dowry,Outside the city by sea,60.03341829292467,12,2021,2.2,51114.24966173749,13.0
+Female,Broiler,Thanksgiving,Outside the city by sea,12.15795797714276,12,2022,3.6,56661.89785308703,13.0
+Male,Layer,Free-range setup,Chick supply via road transport,31.276482868554773,12,2021,1.0,23288.10257489353,7.0
+Male,Dual-purpose,,Chick supply via air freight,-17.84038475420087,4,2024,1.2,28601.478158559494,8.0
+,Layer,Wedding dowry,Chick supply via road transport,25.09927907426568,11,2021,1.0,100572.19417029375,44.0
+Female,Dual-purpose,Thanksgiving,Chick supply via air freight,24.071165715245087,7,2023,1.5,70558.07439044445,26.0
+Female,Layer,Wedding dowry,Outside the city by sea,36.275394881858176,6,2019,1.0,80376.78954081066,38.0
+Male,Dual-purpose,Free-range setup,Chick supply via air freight,39.51356636952744,6,2023,1.2,44329.42914632189,20.0
+Female,Dual-purpose,Wedding dowry,Outside the city by sea,30.80423261461855,10,2023,1.8,110388.38410949254,43.0
+Male,Layer,Battery cage system,Chick supply via air freight,56.34958219088328,8,2022,3.0,117661.57005989796,43.0
+Male,Broiler,Battery cage system,Chick supply via road transport,31.343657270812137,12,2024,3.6,108257.56731721724,38.0
+Female,Dual-purpose,Battery cage system,Chick supply via air freight,-31.9423415205379,11,2022,3.0,141755.7598776126,52.0
+Male,Broiler,Thanksgiving,Chick supply via road transport,34.12987288589181,6,2023,3.5,55578.37317146429,10.0
+Female,Dual-purpose,Free-range setup,Chick supply via air freight,39.627823736508994,4,2022,3.5,76896.48592031913,18.0
+Female,Broiler,Wedding dowry,,-39.20509177305857,3,2021,1.7,65337.59240705054,24.0
+Female,Dual-purpose,Thanksgiving,Outside the city by sea,41.40743803679552,1,2023,3.2,104303.73962440994,31.0
+Female,Layer,Wedding dowry,Chick supply via road transport,36.95951847705328,5,2019,2.1,127776.70421221602,49.0
+Female,Broiler,Free-range setup,Chick supply via road transport,57.635231249192685,7,2022,3.5,57755.179257604635,12.0
+Female,Broiler,Free-range setup,Chick supply via road transport,32.2554838247165,11,2020,3.9,63857.854754771775,10.0
+Female,Broiler,Battery cage system,Outside the city by sea,29.527918971728607,3,2022,3.3,40226.87974792574,2.0
+Male,Broiler,Thanksgiving,Outside the city by sea,35.393806956160304,9,2020,2.0,124843.15778766174,49.0
+Female,Dual-purpose,Battery cage system,Chick supply via air freight,14.737576790113676,3,2022,2.9,32175.382697099478,4.0
+,Broiler,Free-range setup,Outside the city by sea,10.875150132221892,2,2023,2.9,68430.2572999922,18.0
+Male,,Battery cage system,Chick supply via road transport,13.14730906779127,11,2024,1.9,48292.12243424794,12.0
+Male,Dual-purpose,Wedding dowry,Chick supply via air freight,45.31187406407484,10,2020,2.6,97206.30256788443,40.0
+Male,Layer,Thanksgiving,Chick supply via air freight,11.428780855358124,1,2021,3.6,74083.70743667113,22.0
+Female,Layer,Battery cage system,Chick supply via road transport,27.671794853765267,9,2022,1.6,65803.8391111995,30.0
+Male,Dual-purpose,Wedding dowry,Chick supply via road transport,32.31616402494294,6,2022,2.8,112652.96582777721,43.0
+Male,Layer,Thanksgiving,Chick supply via road transport,22.86994128333769,2,2019,3.0,77587.71127897981,22.0
+Male,Dual-purpose,Free-range setup,Outside the city by sea,39.01067159975779,9,2019,3.5,102511.78526048014,30.0
+Male,Layer,Wedding dowry,Chick supply via air freight,13.926004480061698,6,2020,2.9,39370.47390209888,5.0
+Male,Dual-purpose,Wedding dowry,Chick supply via road transport,33.94093219555462,11,2019,2.4,66143.07772785646,17.0
+Female,Layer,,Chick supply via road transport,36.57636055722879,2,2020,3.4,127099.49270892554,50.0
+Male,Broiler,Thanksgiving,Chick supply via air freight,29.049377459574924,11,2019,1.2,61483.087803224225,29.0
+Male,Broiler,Wedding dowry,Chick supply via air freight,40.87734879602138,11,2023,2.9,84722.2615055169,28.0
+Male,Broiler,Free-range setup,Chick supply via road transport,41.17161732554761,9,2022,2.6,121920.32724469654,47.0
+,Broiler,Thanksgiving,Chick supply via air freight,42.20338367321059,9,2024,1.4,27836.526259529535,7.0
+Male,Broiler,Thanksgiving,Chick supply via road transport,17.985083693202384,2,2022,2.1,54662.789499800616,22.0
+Male,Dual-purpose,,Chick supply via air freight,34.91871548883555,6,2023,3.6,73554.39980243606,19.0
+Male,Dual-purpose,Free-range setup,Outside the city by sea,27.87494161104509,10,2020,2.6,95477.65249747573,38.0
+Male,Dual-purpose,Thanksgiving,Chick supply via air freight,20.568761382442627,10,2023,1.2,99348.36274415019,42.0
+Male,Layer,Battery cage system,Outside the city by sea,39.61118234380476,12,2020,1.8,35832.991230484244,8.0
+Female,Broiler,Wedding dowry,Outside the city by sea,13.44847768697535,4,2024,1.1,16300.601068363223,5.0
+Female,Layer,Battery cage system,,38.93720593928297,2,2021,1.7,34430.665413316536,10.0
+Female,Broiler,Free-range setup,Chick supply via air freight,-42.2352458519248,7,2023,3.6,44703.932390555245,7.0
+Male,Dual-purpose,Battery cage system,Outside the city by sea,58.863041320664166,9,2022,3.2,129686.60451363414,49.0
+Male,Broiler,Battery cage system,Outside the city by sea,60.19354096174963,5,2020,1.8,26775.71160250619,2.0
+Male,Dual-purpose,Battery cage system,Chick supply via air freight,55.11669852407514,1,2021,2.8,109071.36976832229,43.0
+Female,Dual-purpose,Free-range setup,Chick supply via road transport,24.36117242468852,6,2019,1.3,19520.23257758922,2.0
+,Dual-purpose,Free-range setup,Chick supply via road transport,-38.48017647135673,4,2019,3.4,149348.7119081378,59.0
+Male,Broiler,Battery cage system,Chick supply via air freight,30.967399440645504,1,2023,1.4,114035.63583868828,52.0
+Male,Broiler,Wedding dowry,Chick supply via road transport,-28.23151389130549,8,2021,1.2,123464.8482002272,56.0
+Male,Layer,Thanksgiving,Chick supply via air freight,46.57682285341067,8,2021,1.6,90823.78838790313,40.0
+Male,Dual-purpose,Thanksgiving,Outside the city by sea,16.344485905140324,5,2023,1.7,100231.75347326409,43.0
+Male,Layer,Thanksgiving,Outside the city by sea,-29.318075068604387,9,2021,3.3,139010.61053705576,56.0
+Female,Layer,Free-range setup,Chick supply via road transport,52.90095796864941,5,2020,3.4,115823.62566458195,36.0
+Male,Dual-purpose,Battery cage system,Chick supply via air freight,60.50424794016663,3,2023,4.0,54176.31775985864,7.0
+Male,Dual-purpose,Thanksgiving,Chick supply via road transport,-33.059953101297154,8,2022,3.1,51501.37246003707,12.0
+Male,Dual-purpose,Wedding dowry,Outside the city by sea,-42.65188950097125,11,2023,1.6,53069.89955367111,18.0
+Male,Broiler,Wedding dowry,Chick supply via road transport,44.92019250408476,8,2019,2.0,93438.35975154585,37.0
+Male,Layer,Battery cage system,Chick supply via air freight,32.47851907571603,1,2021,1.9,49895.15200233388,16.0
+,Broiler,Thanksgiving,,51.540016755544,4,2019,3.5,100070.83350021712,31.0
+,Broiler,Battery cage system,Outside the city by sea,19.50777112564049,4,2024,3.7,84787.53855023652,22.0
+Female,Layer,Battery cage system,Outside the city by sea,43.93084141343625,1,2019,3.4,81347.49426194736,25.0
+Female,Dual-purpose,Battery cage system,Chick supply via air freight,49.34660001959956,5,2021,3.2,137120.9087967766,54.0
+Female,Broiler,Free-range setup,Chick supply via road transport,-27.444700726496407,7,2023,3.0,114624.74151424177,43.0
+Female,Dual-purpose,Wedding dowry,Chick supply via road transport,21.475108453383395,5,2022,1.6,52490.39417632208,24.0
+Female,Broiler,,Chick supply via road transport,57.457858356223085,1,2021,1.5,41424.04468900724,17.0
+Female,Dual-purpose,Wedding dowry,Chick supply via air freight,13.15278855075486,10,2021,3.2,106834.37133722262,34.0
+Male,Layer,Thanksgiving,Chick supply via road transport,57.49621473696823,9,2024,3.3,153224.8385675064,56.0
+Male,Broiler,Wedding dowry,,16.423633992392205,8,2024,3.6,144754.81980221812,55.0
+Male,,Free-range setup,Outside the city by sea,44.88792443774361,11,2020,1.5,113882.78481527884,48.0
+Female,Layer,Free-range setup,Chick supply via air freight,21.610674920778926,1,2023,2.8,49556.25077271768,10.0
+Female,Broiler,Wedding dowry,Chick supply via air freight,25.796999904963023,2,2022,2.8,77394.40404227619,17.0
+Female,Dual-purpose,Free-range setup,Outside the city by sea,-36.09558666312698,6,2022,1.6,137597.87455717288,58.0
+Male,Broiler,Wedding dowry,Chick supply via road transport,52.46442582588327,3,2024,2.2,113360.41204259617,46.0
+Male,Broiler,Battery cage system,Chick supply via road transport,60.16066406396808,2,2022,1.8,39222.29779699787,13.0
+Female,Dual-purpose,Wedding dowry,Chick supply via air freight,42.093591070125285,2,2022,3.7,84967.76839871214,28.0
+Female,Dual-purpose,Battery cage system,Outside the city by sea,59.36735669712807,7,2021,3.8,77017.31817933611,19.0
+Male,Layer,Battery cage system,Chick supply via air freight,41.97750720882252,2,2024,2.6,126218.24627357848,52.0
+Male,Layer,Free-range setup,Chick supply via road transport,22.49997471138852,10,2022,3.4,100888.73145201163,37.0
+Female,Broiler,Battery cage system,Chick supply via air freight,52.6229249442005,11,2019,2.9,143767.13557878736,59.0
+Female,Layer,Wedding dowry,Outside the city by sea,-48.725186062765566,4,2019,2.5,105592.25998192803,43.0
+Female,Dual-purpose,Battery cage system,Chick supply via air freight,19.391484320524267,1,2024,1.4,56435.70817536282,17.0
+Female,Dual-purpose,Thanksgiving,Chick supply via road transport,36.95647431985129,10,2024,3.2,60408.198784747256,12.0
+Male,Layer,Battery cage system,Chick supply via air freight,-44.734093027136105,6,2023,3.4,145960.13679341692,56.0
+Female,Layer,Thanksgiving,Chick supply via road transport,52.299635449348585,12,2022,2.3,104399.72069445012,37.0
+Male,,Wedding dowry,Chick supply via road transport,42.91186052602165,2,2019,3.9,149386.84153823808,55.0
+Female,Dual-purpose,Thanksgiving,Outside the city by sea,46.359267085374725,1,2020,3.7,72693.57899335868,20.0
+Male,Dual-purpose,,Outside the city by sea,41.74087472232075,6,2023,3.3,62615.62038634829,11.0
+Male,Dual-purpose,Thanksgiving,Outside the city by sea,15.077710621483297,3,2023,4.0,134694.5502184233,46.0
+Male,Dual-purpose,Free-range setup,Chick supply via air freight,55.19422306081929,8,2019,2.1,39813.76922836772,12.0
+Male,Layer,Thanksgiving,Outside the city by sea,11.734820126065395,2,2019,1.3,74048.30660958195,31.0
+Female,,Free-range setup,Chick supply via road transport,46.892400483350855,10,2024,3.8,133621.9087330762,50.0
+Female,Broiler,Thanksgiving,Outside the city by sea,46.0656073872889,7,2022,3.9,96086.00134517832,32.0
+Male,Broiler,Thanksgiving,Chick supply via road transport,57.80955998496029,9,2021,3.0,80630.88773765821,23.0
+Female,Layer,Wedding dowry,Outside the city by sea,46.61639689703661,6,2019,2.2,33547.08320235065,1.0
+Female,Layer,Wedding dowry,Chick supply via road transport,17.238453403459644,5,2023,3.7,104007.1621309043,37.0
+Female,Dual-purpose,Thanksgiving,Chick supply via road transport,25.35397356016596,9,2024,3.0,84814.84618345286,26.0
+Female,Broiler,Wedding dowry,Outside the city by sea,15.222409560484811,8,2021,3.1,139746.78715439085,56.0
+Male,Broiler,Battery cage system,Chick supply via road transport,15.534943033223009,12,2023,1.5,34564.37308117652,11.0
+Male,Dual-purpose,Thanksgiving,Chick supply via air freight,50.69556754771047,8,2023,1.6,27038.030378805655,7.0
+Male,Layer,Thanksgiving,Chick supply via road transport,59.18957791653154,9,2022,2.7,108680.04615160092,43.0
+,Broiler,Thanksgiving,Chick supply via road transport,44.00856889399387,4,2020,1.4,124242.60813972414,55.0
+Female,Broiler,Free-range setup,Chick supply via air freight,24.421446737288026,9,2019,2.3,128845.24941794481,55.0
+Male,Broiler,Free-range setup,Chick supply via road transport,-49.50591091317066,6,2020,3.4,39352.28412889919,2.0
+Female,Dual-purpose,Battery cage system,Outside the city by sea,22.97283379676514,4,2024,1.2,59748.809452754314,24.0
+Male,Dual-purpose,Wedding dowry,Outside the city by sea,20.538725698049607,6,2022,1.2,90805.25976566796,40.0
+Male,Dual-purpose,Wedding dowry,Chick supply via air freight,57.34197743873379,12,2019,2.1,30462.18168979201,7.0
+Female,Broiler,Free-range setup,Chick supply via air freight,22.439497454975545,12,2022,3.2,109116.14334715833,40.0
+Female,Dual-purpose,Thanksgiving,Chick supply via air freight,47.78636798167018,4,2022,1.1,100776.95612912878,43.0
+Male,Broiler,Wedding dowry,Chick supply via road transport,57.60864560962859,3,2024,3.9,101504.5859381219,30.0
+Male,Layer,Battery cage system,Chick supply via road transport,40.21453430124025,9,2023,2.3,66112.22377600725,24.0
+Male,Layer,Free-range setup,Outside the city by sea,14.649499175069275,12,2022,1.0,48496.66152714613,19.0
+Female,Layer,,Chick supply via road transport,54.40883050270448,3,2019,2.4,113756.93561685894,43.0
+Male,Broiler,Free-range setup,Chick supply via air freight,46.79214623949848,9,2023,2.3,22652.97359439314,4.0
+Female,Dual-purpose,Free-range setup,Outside the city by sea,44.949619357037385,10,2021,3.9,65716.80096189967,12.0
+Female,Broiler,Battery cage system,Chick supply via air freight,26.721408975302296,6,2021,2.7,133686.88120527077,55.0
+,Broiler,Free-range setup,Chick supply via road transport,38.8477077175443,6,2021,2.3,129852.9933429658,52.0
+Male,Dual-purpose,Free-range setup,Outside the city by sea,46.940092279515454,12,2020,1.4,70183.70421728742,30.0
+Female,Broiler,Battery cage system,Chick supply via air freight,59.64478089013659,11,2023,2.8,116975.5894966774,49.0
+Female,Dual-purpose,Thanksgiving,Outside the city by sea,40.18531039210109,11,2022,1.8,21862.28781058419,6.0
+,Dual-purpose,Thanksgiving,,57.65288736096426,6,2023,3.7,99240.4247333069,31.0
+Male,,Free-range setup,Outside the city by sea,34.02454504670277,7,2022,2.6,97298.6125086074,35.0
+Male,,Battery cage system,Chick supply via air freight,60.44782956002298,9,2019,1.3,108478.41687447796,50.0
+Male,Layer,,,27.02643352694224,12,2021,3.6,99192.96229388687,30.0
+Male,Layer,Wedding dowry,Chick supply via road transport,58.521283938786816,2,2024,3.5,112692.3996886552,43.0
+Male,,Thanksgiving,,28.35652728040077,6,2024,1.6,53669.60100676342,19.0
+Male,Layer,Free-range setup,Chick supply via road transport,42.2395076720076,8,2021,3.9,128944.91900118772,48.0
+Female,Dual-purpose,Battery cage system,Outside the city by sea,10.892806243993466,4,2022,1.6,16740.819460989205,2.0
+Male,Dual-purpose,Thanksgiving,Outside the city by sea,10.313198712733538,1,2022,3.6,68236.99335658207,16.0
+Female,Layer,Free-range setup,Chick supply via air freight,19.73242992714776,11,2019,3.1,106697.93317358024,40.0
+Female,Broiler,Wedding dowry,Chick supply via road transport,11.340500296500258,5,2019,2.0,78077.22227885087,30.0
+Male,Layer,Battery cage system,Outside the city by sea,42.25513434564451,9,2022,3.2,71031.4640460722,17.0
+Male,Dual-purpose,Wedding dowry,Chick supply via road transport,45.21892579750725,10,2024,3.6,101115.54065238425,34.0
+Female,Layer,Free-range setup,Chick supply via road transport,33.04676175342184,6,2023,3.1,111178.46056032571,38.0
+Female,Layer,Battery cage system,Outside the city by sea,-21.39535153469112,1,2023,2.7,125351.4657267119,52.0
+Female,Broiler,Thanksgiving,Chick supply via air freight,31.45994407592836,9,2024,3.1,131649.0208895764,49.0
+Male,Broiler,Free-range setup,Chick supply via road transport,30.0208694946384,10,2023,1.2,53207.8431032895,17.0
+Female,Dual-purpose,Thanksgiving,Chick supply via air freight,38.13233077507538,11,2024,3.3,128641.77749936355,54.0
+Male,Broiler,Thanksgiving,Chick supply via air freight,36.09741315744818,2,2024,2.6,54015.52372264762,16.0
+Female,Layer,Free-range setup,Outside the city by sea,14.66309641057152,3,2020,2.7,63885.3606359027,17.0
+Female,Layer,Free-range setup,Chick supply via air freight,44.48690746233408,9,2023,2.2,100984.77306978503,40.0
+Male,Dual-purpose,Battery cage system,Chick supply via road transport,14.655181601846332,3,2022,2.7,126855.72936685654,49.0
+Male,Layer,,Chick supply via road transport,60.55863688217561,7,2021,1.9,83980.0740664209,34.0
+Male,,Battery cage system,Outside the city by sea,50.63285790934936,7,2023,1.2,74432.9489373645,31.0
+Female,Broiler,Free-range setup,Chick supply via air freight,24.23717375466057,6,2022,1.5,108221.6138230396,47.0
+Male,Dual-purpose,Free-range setup,Chick supply via air freight,30.4612575698604,5,2023,1.1,68838.91030829903,26.0
+Male,Layer,Battery cage system,Outside the city by sea,15.813787832925788,8,2019,4.0,157272.10421650606,58.0
+Female,Broiler,Battery cage system,Outside the city by sea,15.792681676325287,3,2024,3.5,140688.013310376,52.0
+Male,Layer,Wedding dowry,Chick supply via road transport,55.77504825496002,11,2022,3.2,39940.61516938766,5.0
+Male,Layer,Thanksgiving,Chick supply via road transport,40.75882960895703,4,2019,3.7,150561.96887963754,58.0
+Male,Broiler,Thanksgiving,Chick supply via road transport,13.671918825601814,6,2022,2.7,36837.20906090189,6.0
+Male,Broiler,Battery cage system,Outside the city by sea,49.356544266459416,6,2019,2.3,36972.26071189148,6.0
+Female,Dual-purpose,Battery cage system,Outside the city by sea,-26.17305479131619,6,2021,1.0,93895.07759589868,43.0
+Female,Broiler,Battery cage system,Chick supply via air freight,51.38354707536143,9,2021,2.5,76448.87428448207,25.0
+Male,Broiler,Free-range setup,Outside the city by sea,12.34811633036074,11,2020,3.1,101377.00399322719,30.0
+Female,Broiler,Wedding dowry,Chick supply via road transport,33.68116411431768,9,2022,1.5,63355.62351715846,22.0
+Male,Broiler,Thanksgiving,Chick supply via air freight,58.47643335601075,9,2020,3.5,117369.88233916079,42.0
+Male,Dual-purpose,,Chick supply via air freight,60.52677470346139,9,2019,4.0,128006.06961081973,41.0
+Male,Broiler,Free-range setup,Outside the city by sea,15.131693675865348,2,2023,1.8,59959.623134892245,22.0
+Male,Broiler,Free-range setup,Chick supply via road transport,41.20327656044836,8,2020,4.0,33809.37732411073,2.0
+Male,Broiler,Wedding dowry,Chick supply via road transport,13.65142150044171,6,2022,3.9,77959.56844541298,22.0
+Female,Layer,Battery cage system,Outside the city by sea,40.53112665024777,9,2023,1.1,29646.04039487072,14.0
+Female,Dual-purpose,Wedding dowry,Chick supply via road transport,18.462407542475265,4,2022,1.2,80242.43257979346,35.0
+Female,,Thanksgiving,Outside the city by sea,48.49261245253312,3,2020,1.0,32092.091895947757,11.0
+Male,,Battery cage system,Chick supply via air freight,-58.975675137138,8,2021,1.9,63382.18656137641,18.0
+Male,Broiler,Battery cage system,Chick supply via air freight,25.11470280408912,3,2022,3.2,143634.63686882082,55.0
+Male,Broiler,Thanksgiving,Chick supply via air freight,30.08865272833616,6,2023,3.7,43904.49735595568,4.0
+Female,Broiler,Battery cage system,Chick supply via air freight,18.09629690298195,11,2019,3.9,141147.02790591744,49.0
+Male,Broiler,Wedding dowry,,60.16614354693167,10,2020,1.8,100944.32345496057,47.0
+Male,Broiler,Thanksgiving,Chick supply via road transport,45.19234015794315,5,2023,1.2,33178.07279054283,10.0
+Male,,Battery cage system,Chick supply via road transport,17.67031783851606,11,2022,2.7,62854.32596943484,16.0
+Male,Broiler,Battery cage system,Chick supply via road transport,16.626577805858563,12,2022,1.3,111607.06877110079,53.0
+Female,Layer,Wedding dowry,Chick supply via road transport,36.4834122906612,9,2019,1.4,51718.770216034645,16.0
+Female,Dual-purpose,Thanksgiving,Outside the city by sea,-41.7550807892634,10,2020,2.3,92692.48203747207,34.0
+Female,Layer,Thanksgiving,Chick supply via air freight,42.57598851473482,1,2020,2.2,47923.56043049599,14.0
+Male,Dual-purpose,Thanksgiving,Chick supply via road transport,29.03111251636296,11,2019,3.2,131163.90933053143,48.0
+Male,Dual-purpose,Wedding dowry,Chick supply via air freight,15.3859822741387,1,2019,3.9,52353.464289021984,1.0
+Male,Layer,Thanksgiving,Outside the city by sea,46.05424253373479,12,2024,3.8,42909.331275292476,2.0
+Male,Broiler,Free-range setup,Chick supply via air freight,27.670171303257536,7,2022,2.0,25241.10293150168,2.0
+,Layer,Battery cage system,Chick supply via road transport,11.973684994515304,1,2022,3.5,40703.19550229878,4.0
+Male,Layer,Battery cage system,Chick supply via air freight,22.90444173162697,3,2024,2.6,139750.77815267604,59.0
+Male,Layer,Battery cage system,Outside the city by sea,48.99794254806435,10,2023,2.0,32151.679082721228,4.0
+,Layer,Thanksgiving,Chick supply via air freight,15.104499204860856,4,2020,3.7,108719.58087045567,38.0
+Male,Broiler,Battery cage system,Chick supply via air freight,47.04724661302569,3,2020,2.7,137357.83118609697,55.0
+Female,Broiler,Battery cage system,Chick supply via air freight,14.417534396277224,3,2024,2.3,76611.71276617442,28.0
+,Layer,Battery cage system,Chick supply via road transport,33.295976756358534,6,2020,2.7,127394.89912873197,49.0
+Female,Dual-purpose,Free-range setup,Chick supply via air freight,54.37392416678826,12,2019,2.4,41668.31052643474,8.0
+Male,Layer,Free-range setup,Chick supply via road transport,37.70066928383243,12,2023,1.7,62187.69972128949,20.0
+Male,Layer,,Chick supply via air freight,-16.69496987099673,4,2022,2.2,99449.91800572627,40.0
+Female,Layer,Free-range setup,Outside the city by sea,45.6692581195891,2,2021,3.5,103650.62532353314,35.0
+Female,,,Chick supply via road transport,-29.000873888156462,11,2024,3.3,90106.18142108846,31.0
+Male,Broiler,Free-range setup,Chick supply via road transport,20.88230957424816,7,2022,3.1,144778.53369961944,58.0
+Male,Dual-purpose,Battery cage system,Chick supply via road transport,54.88392197002923,12,2019,1.1,32886.50246522426,10.0
+Male,Dual-purpose,Free-range setup,Chick supply via air freight,14.648890343628876,9,2022,3.2,91784.94308322675,28.0
+Female,Layer,Free-range setup,Chick supply via air freight,23.834330284929845,7,2020,2.9,76389.17337911187,26.0
+Male,Dual-purpose,Thanksgiving,Outside the city by sea,26.017193942574025,5,2022,1.1,77348.0296005283,31.0
+Male,Broiler,Battery cage system,Chick supply via road transport,24.472385634468083,9,2022,3.9,149778.18929402475,52.0
+Male,Broiler,Battery cage system,Chick supply via road transport,51.482989543959945,9,2021,3.9,105067.17451611851,32.0
+Male,Broiler,Battery cage system,Chick supply via road transport,39.449842012099,12,2022,2.2,67383.97906279033,18.0
+Female,Layer,Battery cage system,Outside the city by sea,18.427907094185983,1,2023,2.1,111131.05400448214,47.0
+Female,Broiler,Battery cage system,Chick supply via air freight,31.74365952715433,7,2019,3.1,110776.72648344291,43.0
+Female,Broiler,Wedding dowry,Chick supply via road transport,47.41538669065367,5,2024,1.4,9106.398755478607,2.0
+Female,Layer,Thanksgiving,Outside the city by sea,49.75411119704002,12,2019,1.9,52480.22155744591,13.0
+Male,Layer,Free-range setup,Chick supply via road transport,27.143735051125795,12,2021,2.7,86271.82828177029,28.0
+Male,Layer,Free-range setup,,33.60546607189473,11,2021,3.8,141722.07664544773,52.0
+Male,,Free-range setup,Chick supply via road transport,12.410217137281446,6,2024,1.9,22399.8431315991,1.0
+,Layer,Battery cage system,,54.690516515795785,1,2022,1.6,12372.554763508117,1.0
+Female,Broiler,Free-range setup,Chick supply via air freight,44.35296454544629,5,2023,2.8,64228.75989808413,12.0
+Female,Layer,Free-range setup,Outside the city by sea,35.074373393764255,2,2020,3.3,41646.10590987614,4.0
+Female,Dual-purpose,Thanksgiving,Chick supply via air freight,28.579765475213765,8,2022,2.5,101546.97397302446,38.0
+Female,Dual-purpose,Battery cage system,Chick supply via road transport,32.00890709135487,12,2022,1.3,42628.83311949346,13.0
+Male,Layer,Thanksgiving,Outside the city by sea,46.02664217510336,2,2024,3.6,106405.04615868357,34.0
+Male,Layer,Wedding dowry,Outside the city by sea,54.9648965516023,11,2022,1.8,87119.42012139565,34.0
+Male,Layer,Wedding dowry,Outside the city by sea,47.973482177686165,6,2023,1.4,96047.62772277344,43.0
+Female,Dual-purpose,Thanksgiving,Chick supply via road transport,11.687331273714268,10,2021,2.4,114357.34178567998,44.0
+Male,Broiler,Battery cage system,Outside the city by sea,35.92998451133843,12,2020,1.1,128410.12248237517,54.0
+Male,Dual-purpose,Thanksgiving,Outside the city by sea,40.280491040616816,6,2022,4.0,130727.10023077489,42.0
+Male,Layer,Wedding dowry,Outside the city by sea,44.75925806000593,10,2024,3.1,64965.93313319699,13.0
+Male,Broiler,Wedding dowry,Outside the city by sea,57.56866567837572,9,2023,1.8,119443.92161784407,52.0
+Female,Layer,Free-range setup,Outside the city by sea,12.249485637016088,1,2019,2.8,123051.9758987071,50.0
+Male,Dual-purpose,Free-range setup,Chick supply via air freight,23.099267792554684,12,2023,2.5,50371.06539950176,13.0
+Female,Layer,Free-range setup,Chick supply via air freight,46.18980900113032,10,2020,1.9,81278.62456144347,31.0
+Male,Dual-purpose,Battery cage system,Outside the city by sea,41.64528818617809,12,2020,2.2,121470.95759235474,47.0
+Female,Dual-purpose,Free-range setup,Chick supply via road transport,41.98866911856317,8,2021,2.1,38537.6768514259,13.0
+Male,Dual-purpose,Battery cage system,Chick supply via road transport,23.862539475001668,1,2023,1.6,39647.75159730307,8.0
+Male,Broiler,Battery cage system,Chick supply via air freight,58.96248378926269,7,2020,3.1,42209.960507105054,6.0
+Male,Dual-purpose,Battery cage system,Chick supply via air freight,13.768925968438737,5,2020,3.1,52865.5946502629,12.0
+Female,Layer,Wedding dowry,Chick supply via road transport,18.35789147854009,6,2022,2.7,109939.47812369917,44.0
+Female,Dual-purpose,Wedding dowry,,36.21085874917588,11,2020,2.5,88725.71664067115,36.0
+Female,Layer,Battery cage system,Chick supply via air freight,12.751974519158798,12,2020,3.2,144115.85291980958,54.0
+Female,Dual-purpose,Wedding dowry,Chick supply via road transport,47.4839816996053,7,2022,1.4,82366.58983594202,34.0
+Male,Broiler,Battery cage system,Chick supply via air freight,39.17708552680021,3,2024,1.7,120550.19550129473,55.0
+Female,Layer,Battery cage system,Outside the city by sea,51.930886540280206,11,2024,3.5,110524.60613968191,41.0
+Male,Dual-purpose,Free-range setup,Outside the city by sea,27.332472797649512,6,2022,3.3,35321.07650354936,2.0
+Male,Dual-purpose,Wedding dowry,Chick supply via road transport,20.672465671123938,3,2020,1.1,81345.10762644696,31.0
+Male,Broiler,Wedding dowry,Outside the city by sea,25.843474038246818,8,2022,2.3,113702.04324318198,46.0
+Female,Dual-purpose,Free-range setup,Chick supply via road transport,39.96065159059383,1,2022,1.6,82484.28523440947,37.0
+Female,Layer,,Outside the city by sea,14.204849279764478,12,2021,1.6,134771.28467957026,60.0
+Female,Dual-purpose,Battery cage system,Chick supply via road transport,51.91546281045676,12,2023,2.7,39636.38215126165,7.0
+Male,Broiler,Thanksgiving,Chick supply via air freight,40.17353965092004,3,2019,1.3,47515.56678529214,24.0
+,Layer,Wedding dowry,Chick supply via road transport,21.53517982216944,5,2024,3.1,80728.52566741094,25.0
+Male,Layer,Free-range setup,Chick supply via road transport,47.29970871697785,1,2024,1.3,111845.3273489566,50.0
+,Broiler,Wedding dowry,Outside the city by sea,36.96276557806874,1,2024,2.5,76481.03182406709,24.0
+Female,Broiler,Thanksgiving,Chick supply via air freight,57.80022456954083,7,2024,1.2,137244.78047472672,58.0
+Male,Broiler,Thanksgiving,Outside the city by sea,47.42208383649806,7,2023,1.6,129632.82514773878,54.0
+Male,Layer,Thanksgiving,Chick supply via air freight,38.23278796274123,3,2023,3.4,126655.55654722585,47.0
+Male,Layer,Wedding dowry,Chick supply via air freight,15.15279983246585,2,2023,3.9,43467.37045629165,5.0
+Female,Dual-purpose,Free-range setup,Outside the city by sea,56.719345819019,4,2021,2.7,131866.7990162493,46.0
+Female,Layer,Wedding dowry,Chick supply via air freight,31.84391377100672,11,2022,3.0,118296.09217007244,44.0
+Female,Layer,Free-range setup,Chick supply via air freight,29.933400711034395,2,2023,3.3,91069.64645956473,29.0
+,Layer,Free-range setup,Chick supply via air freight,12.058312564730777,1,2021,3.3,142879.37456444997,55.0
+Male,Layer,,Chick supply via air freight,12.676885308176246,7,2022,2.1,101990.42380383928,40.0
+Female,Broiler,Free-range setup,Outside the city by sea,12.093827732087387,6,2024,2.0,45278.19794038029,13.0
+Male,Layer,Free-range setup,Outside the city by sea,16.78812108137779,7,2019,3.9,120131.68996559882,42.0
+Male,Dual-purpose,Thanksgiving,Chick supply via road transport,27.55266683526052,11,2022,3.6,117265.70529379803,42.0
+Female,Broiler,Thanksgiving,Chick supply via air freight,40.250252412410326,6,2020,1.5,82836.23364892001,34.0
+Female,Dual-purpose,Wedding dowry,Chick supply via air freight,13.577144064713025,12,2021,3.5,130282.87614433118,49.0
+Female,Broiler,Thanksgiving,Chick supply via air freight,49.61103580854624,10,2019,4.0,56435.77108661418,10.0
+Male,Layer,Free-range setup,Outside the city by sea,30.18281865778455,11,2023,2.6,144532.15113845948,59.0
+Female,Dual-purpose,Free-range setup,Chick supply via road transport,-57.69266434840366,3,2022,3.0,36725.11391289572,4.0
+Female,Dual-purpose,Thanksgiving,Chick supply via air freight,50.048176782752776,4,2020,3.4,101519.96494291344,30.0
+Female,Broiler,Battery cage system,Chick supply via road transport,21.24517311272601,1,2019,2.4,62745.15095803494,26.0
+Male,Dual-purpose,Wedding dowry,Chick supply via air freight,32.62910338530807,2,2024,1.5,96457.53425961231,38.0
+Male,Dual-purpose,Wedding dowry,Chick supply via air freight,57.288400271978674,10,2022,1.6,114230.42596248814,46.0
+Male,Layer,Battery cage system,Chick supply via road transport,50.75584186030997,1,2019,1.9,42633.04883795926,17.0
+Male,Dual-purpose,Wedding dowry,Chick supply via air freight,39.82001152786164,4,2022,1.4,16286.562029598255,2.0
+Female,Dual-purpose,Free-range setup,Chick supply via road transport,49.01884576085139,9,2022,2.4,26142.79567002104,2.0
+,Dual-purpose,Battery cage system,Outside the city by sea,18.31933215398148,8,2024,1.1,59962.4415264109,28.0
+Female,Dual-purpose,Battery cage system,Chick supply via air freight,25.91592497965431,5,2022,2.9,87110.91656204562,31.0
+Female,Broiler,Free-range setup,,36.06859513593596,8,2024,3.9,121447.12077267085,44.0
+Male,Layer,Free-range setup,Chick supply via air freight,23.950211202419137,3,2022,3.2,90761.35221711811,25.0
+Male,Dual-purpose,Wedding dowry,Outside the city by sea,46.663276917947336,6,2022,1.7,37678.391965737304,8.0
+Female,Dual-purpose,Battery cage system,Chick supply via air freight,58.82164078271703,6,2023,1.2,128357.7754749708,55.0
+Female,Dual-purpose,Wedding dowry,Outside the city by sea,47.01518149049801,4,2021,1.0,83608.36032021618,35.0
+Male,Dual-purpose,Thanksgiving,Chick supply via air freight,43.87462597710607,3,2022,3.1,71354.74114391385,23.0
+Female,Layer,Wedding dowry,Chick supply via air freight,18.84739195662096,2,2019,2.2,103377.39866860113,42.0
+Male,Broiler,Wedding dowry,Chick supply via road transport,45.75875634132777,4,2022,2.4,52446.87280613959,13.0
+Female,Dual-purpose,Free-range setup,Chick supply via road transport,38.77789504571188,12,2024,3.9,104889.36095554027,36.0
+Male,Dual-purpose,Free-range setup,Chick supply via air freight,46.71949235427752,2,2019,1.1,122564.99215086194,54.0
+Female,Dual-purpose,,Chick supply via air freight,27.47575112995676,1,2023,2.7,117798.37300920933,46.0
+Female,Broiler,Thanksgiving,Outside the city by sea,14.238943840426826,1,2023,2.3,59125.89596225201,19.0
+Female,Dual-purpose,Thanksgiving,Outside the city by sea,24.322410156316444,11,2023,3.0,37554.799841017455,2.0
+,Layer,Free-range setup,Chick supply via road transport,35.47112854909099,4,2019,2.5,133221.3165574302,53.0
+Female,Broiler,Battery cage system,Chick supply via air freight,41.44437381084639,4,2022,2.1,127195.1691709046,54.0
+Female,Layer,Wedding dowry,Outside the city by sea,59.00733437203875,1,2021,2.0,29796.64901682124,2.0
+Male,Broiler,Battery cage system,Outside the city by sea,19.987733244488435,12,2020,3.0,64594.68336200051,20.0
+Female,Broiler,,,48.02665345681435,9,2019,3.8,77079.67803472132,18.0
+Male,Layer,Thanksgiving,Outside the city by sea,47.73522614067666,3,2019,2.7,63965.50628984192,17.0
+Female,Broiler,Wedding dowry,Outside the city by sea,57.728179515760274,4,2023,1.6,122452.26780343005,54.0
+Female,Broiler,Wedding dowry,,40.86801338060193,11,2024,1.5,44630.66511121059,14.0
+Male,Broiler,Free-range setup,Outside the city by sea,51.86046503700738,10,2022,3.4,147744.43211807348,60.0
+Female,Layer,Thanksgiving,Chick supply via air freight,29.995907405582034,8,2021,2.0,58620.13509603451,17.0
+Male,Dual-purpose,Wedding dowry,Chick supply via road transport,50.086127275870986,2,2020,2.3,108075.48931778506,43.0
+Female,Broiler,Wedding dowry,Chick supply via air freight,56.73842253748483,11,2023,1.8,87386.3848974048,36.0
+Female,Broiler,Wedding dowry,Chick supply via road transport,10.995495813607445,9,2021,2.4,33245.04612918445,2.0
+Male,Broiler,Wedding dowry,Chick supply via road transport,-33.0071877097959,9,2021,2.4,68478.2815472862,24.0
+Male,Broiler,Thanksgiving,Chick supply via road transport,49.05821686066386,3,2019,2.1,81957.6935181822,34.0
+Male,Dual-purpose,Wedding dowry,Outside the city by sea,60.02225638318402,12,2020,2.3,99216.85413238048,42.0
+,Broiler,Free-range setup,Chick supply via air freight,36.23034135526865,8,2019,2.6,127030.0497567282,49.0
+Male,Broiler,Battery cage system,Chick supply via road transport,45.853125214589625,1,2019,3.2,87597.85323751859,31.0
+Female,Broiler,Free-range setup,Chick supply via air freight,29.21842965619241,1,2023,1.9,37773.97090992182,5.0
+Male,Dual-purpose,Wedding dowry,Outside the city by sea,59.27948202589714,7,2023,1.5,8590.35296058139,2.0
+Male,Broiler,Free-range setup,Chick supply via air freight,18.85003022619601,2,2023,3.2,78482.2818414502,19.0
+Male,Dual-purpose,Thanksgiving,Chick supply via road transport,58.55476966800877,7,2021,1.5,80055.0873360131,32.0
+Male,Dual-purpose,Free-range setup,Chick supply via road transport,24.591716596786306,9,2022,3.0,49516.43444064804,10.0
+Female,Broiler,Thanksgiving,Chick supply via road transport,45.76727998149335,10,2019,3.1,80275.40456595525,26.0
+Male,Dual-purpose,Battery cage system,Chick supply via air freight,50.40190784962464,8,2024,3.4,153995.68057176034,59.0
+Female,Dual-purpose,,Chick supply via air freight,11.359171127339163,4,2020,3.2,139811.82648787575,54.0
+Male,Layer,Wedding dowry,Chick supply via air freight,48.50275964320643,3,2021,3.0,123516.50941008261,44.0
+Female,Broiler,Wedding dowry,Outside the city by sea,36.28757151066616,9,2024,3.3,103571.1382433102,35.0
+Female,Layer,,Outside the city by sea,38.64456096026448,10,2020,1.3,25751.508807309387,6.0
+Female,Layer,Wedding dowry,Chick supply via air freight,54.09426759183162,4,2021,1.5,129181.93893893072,58.0
+Male,Layer,Battery cage system,Chick supply via air freight,-30.78901182860857,1,2024,3.1,78715.27188139466,24.0
+Male,Layer,Thanksgiving,Chick supply via road transport,-31.827678265929407,4,2019,2.3,26539.008844460295,1.0
+Female,Layer,Wedding dowry,Chick supply via air freight,52.3140444601047,9,2022,2.3,106449.15803671686,46.0
+,Dual-purpose,Thanksgiving,Chick supply via air freight,-25.95164309082439,1,2023,1.9,68259.07288947144,28.0
+Female,Broiler,Thanksgiving,Chick supply via air freight,17.774225071010836,12,2023,1.0,117716.32047011357,52.0
+Female,Broiler,Wedding dowry,Chick supply via road transport,29.63994395676204,9,2022,2.2,80854.32719063971,29.0
+,Broiler,,Chick supply via road transport,35.894266400168355,6,2019,1.9,104080.0833182366,43.0
+Male,Broiler,Thanksgiving,Outside the city by sea,32.42940667285717,1,2020,2.7,127092.16966532696,50.0
+Female,Broiler,Free-range setup,Outside the city by sea,14.031941150691138,10,2020,2.2,107737.90852680836,42.0
+Male,Layer,Thanksgiving,Chick supply via air freight,57.30443283324252,10,2024,1.3,38301.20159845319,14.0
+Male,Broiler,Wedding dowry,Chick supply via road transport,30.98769382199214,7,2022,1.4,26108.476372988436,8.0
+Female,Dual-purpose,Free-range setup,,43.71490919590804,5,2023,1.4,74979.22627548841,30.0
+Female,Dual-purpose,Thanksgiving,Outside the city by sea,31.87638478116133,12,2021,1.7,56108.13611192484,22.0
+Female,Layer,Wedding dowry,Chick supply via road transport,11.109144349148606,10,2019,1.5,45041.26377857236,14.0
+Female,Dual-purpose,,Chick supply via air freight,19.05053871390078,5,2023,2.4,75487.0819788108,30.0
+Male,Dual-purpose,Thanksgiving,Outside the city by sea,55.17737872430158,2,2023,1.5,132145.77818662822,56.0
+Female,Dual-purpose,Thanksgiving,Chick supply via air freight,23.171718733962177,10,2022,3.5,119362.98741206521,41.0
+Female,Broiler,Battery cage system,Chick supply via air freight,45.05636780292069,11,2023,1.3,48280.148671569375,17.0
+Female,Dual-purpose,Wedding dowry,,42.79942965336129,10,2024,1.1,51913.45491972757,18.0
+Female,Dual-purpose,Wedding dowry,Chick supply via air freight,23.836359723064508,7,2022,2.4,48327.372222312886,8.0
+Male,Broiler,Thanksgiving,Chick supply via road transport,52.99289151614967,7,2023,2.8,107071.85032509065,37.0
+Male,,Battery cage system,Outside the city by sea,55.85460222983883,7,2020,1.4,68795.62884334178,32.0
+Male,Layer,Wedding dowry,Chick supply via road transport,40.02782599285119,5,2022,1.9,74602.1151663215,31.0
+Female,Layer,Free-range setup,Chick supply via road transport,-58.80357878331852,11,2020,3.0,112875.9071115216,43.0
+Male,Broiler,Battery cage system,Outside the city by sea,25.105976220110065,2,2020,1.1,95130.45525105417,42.0
+Male,Dual-purpose,Thanksgiving,Chick supply via road transport,36.24312681551703,2,2023,1.7,117588.29510234561,49.0
+Female,Dual-purpose,Battery cage system,Chick supply via air freight,22.060398411420383,8,2024,3.0,134371.28093423267,54.0
+Male,Broiler,Free-range setup,Chick supply via air freight,47.65912221062677,11,2022,3.1,129933.8338223854,49.0
+Female,Broiler,Battery cage system,Chick supply via road transport,-52.65377240384738,10,2023,1.8,22223.085338233388,4.0
+Male,Layer,Battery cage system,Chick supply via road transport,34.46452723429784,5,2022,2.5,113942.41098504026,46.0
+Male,Broiler,Free-range setup,Chick supply via road transport,12.863593616565296,7,2023,3.4,118966.69451575889,46.0
+Male,Broiler,Battery cage system,Chick supply via air freight,49.47161340869484,4,2020,2.7,122383.83376944548,50.0
+Female,Broiler,Thanksgiving,Chick supply via road transport,14.95756788391121,6,2020,2.3,50241.57697191833,17.0
+Male,Broiler,Wedding dowry,Chick supply via road transport,11.398745170965103,1,2021,2.7,32120.633735113337,5.0
+Male,Layer,Wedding dowry,Chick supply via road transport,12.481247471994672,1,2019,3.7,146268.2089830392,52.0
+Male,Dual-purpose,Battery cage system,Chick supply via air freight,12.19976440271683,1,2019,3.7,34253.00555584028,1.0
+Male,Broiler,Free-range setup,Chick supply via road transport,59.75518232466229,12,2022,1.4,119161.91032418696,46.0
+Female,Layer,Wedding dowry,Chick supply via air freight,48.53888364200345,2,2023,2.7,45466.589504404445,8.0
+Male,Broiler,Free-range setup,Chick supply via air freight,-12.038829958638006,12,2019,1.5,133924.18061847438,59.0
+Male,,Thanksgiving,Chick supply via road transport,35.446369403848095,9,2020,2.1,44708.21109909393,14.0
+Male,Dual-purpose,Thanksgiving,Outside the city by sea,40.98835906198748,9,2022,3.4,107501.54939704496,35.0
+Female,Layer,Battery cage system,Outside the city by sea,-11.05922017103588,10,2022,3.0,73121.81086881112,23.0
+Female,Broiler,Battery cage system,,24.01474733510144,1,2021,3.7,59610.04907322681,11.0
+Male,Dual-purpose,Thanksgiving,Outside the city by sea,46.91675374096682,2,2020,1.0,110800.42269134398,44.0
+Male,Broiler,Wedding dowry,Chick supply via air freight,-35.41592783182814,6,2023,2.7,98519.70050137675,36.0
+Female,Broiler,,Chick supply via air freight,39.68505389190651,5,2020,3.6,111746.36663142838,35.0
+Male,Layer,Free-range setup,Outside the city by sea,58.13772013133539,3,2019,1.5,25484.117874370564,7.0
+Male,Layer,Wedding dowry,Chick supply via air freight,11.737255451826991,5,2019,2.9,102825.05754751519,37.0
+Female,Dual-purpose,Wedding dowry,Outside the city by sea,52.30592670756604,2,2021,3.9,157854.00317817755,55.0
+Female,Broiler,Wedding dowry,Outside the city by sea,14.096883171000371,5,2020,2.7,39865.16471106117,8.0
+Male,Layer,Thanksgiving,,45.96535314343652,4,2020,3.0,155062.24278998465,58.0
+Male,Broiler,Wedding dowry,Outside the city by sea,-24.63047886515838,9,2023,2.8,127538.75967727738,48.0
+Female,Dual-purpose,Thanksgiving,Outside the city by sea,52.86503691366587,12,2024,2.7,136187.66612052865,56.0
+Male,Broiler,Wedding dowry,Chick supply via air freight,48.10762803838743,12,2023,2.0,131162.03869527762,54.0
+Male,Dual-purpose,Wedding dowry,Chick supply via road transport,53.01968009952724,11,2022,2.8,42862.77224813365,5.0
+Male,Broiler,Battery cage system,Chick supply via road transport,-12.595910726603169,2,2019,2.3,34109.049811085984,4.0
+Female,Dual-purpose,Wedding dowry,Outside the city by sea,42.050566981670414,2,2021,3.1,47148.87640054772,12.0
+Female,Broiler,Battery cage system,Chick supply via road transport,21.700579030144524,2,2019,2.7,55364.31412087566,16.0
+Female,Layer,Battery cage system,Chick supply via air freight,60.69400040575768,8,2020,1.2,128762.40682224248,59.0
+Male,Dual-purpose,Battery cage system,Chick supply via air freight,46.055663140429054,10,2024,1.6,127627.83285449976,56.0
+,Layer,Free-range setup,Outside the city by sea,59.11712697512405,4,2024,1.7,96103.3604877534,38.0
+Male,Layer,Wedding dowry,Chick supply via air freight,-16.089588475426574,7,2023,2.8,40888.50500466627,6.0
+,Dual-purpose,Wedding dowry,Chick supply via road transport,56.508284253013976,4,2019,1.3,58323.2782064495,26.0
+Male,Layer,Free-range setup,Chick supply via road transport,58.38571747139129,3,2019,2.4,41900.98925502982,8.0
+Male,Dual-purpose,Wedding dowry,Outside the city by sea,47.42228678031152,5,2019,3.7,64052.928726419115,12.0
+Female,Broiler,Thanksgiving,Outside the city by sea,45.604924930720266,10,2021,1.6,106798.9522396552,44.0
+Male,Layer,Battery cage system,Chick supply via road transport,39.02366000381964,9,2022,2.7,46403.90362777311,7.0
+Male,Broiler,Free-range setup,Outside the city by sea,53.20943256511828,7,2022,2.0,130169.61077274452,53.0
+Male,Broiler,,Chick supply via air freight,21.76836226384229,2,2020,2.5,41295.900396142184,7.0
+Male,Dual-purpose,Free-range setup,Outside the city by sea,55.616143249015856,3,2024,1.8,49649.17144270676,16.0
+Male,Dual-purpose,,Outside the city by sea,56.46505722074564,1,2021,3.7,120695.19533242004,46.0
+Male,Layer,Battery cage system,Outside the city by sea,55.88768207143384,6,2022,3.4,104148.09109566292,34.0
+Female,Broiler,Thanksgiving,Chick supply via road transport,26.02754407706081,12,2019,3.6,59038.43843581556,11.0
+Female,Broiler,Battery cage system,,-32.77258466142879,7,2020,2.8,33357.89418597687,2.0
+Male,Broiler,Thanksgiving,Outside the city by sea,52.98660025793222,11,2019,2.4,123616.25712089846,53.0
+Female,Broiler,Battery cage system,Outside the city by sea,-57.18043416321456,10,2024,2.7,71594.71729795869,25.0
+Male,Dual-purpose,Thanksgiving,Chick supply via air freight,-36.558907389270686,2,2019,3.6,67265.76426666451,13.0
+Male,Broiler,Wedding dowry,Chick supply via air freight,54.16874797137377,10,2023,2.5,52802.224230716725,14.0
+Male,Broiler,Wedding dowry,Outside the city by sea,35.13058883009443,4,2019,2.0,71407.50348686312,24.0
+Female,,Battery cage system,Chick supply via road transport,38.39899894597018,2,2019,3.8,146141.5918806523,54.0
+Male,,Thanksgiving,Chick supply via air freight,56.69438372996263,8,2022,1.0,20148.780697478727,5.0
+Female,Broiler,Battery cage system,Chick supply via air freight,44.13682938410461,6,2021,2.1,37691.41902987999,6.0
+Female,Broiler,Battery cage system,Chick supply via road transport,-11.612242062731717,2,2021,1.5,130419.77635891314,59.0
+Male,Dual-purpose,Battery cage system,Outside the city by sea,11.862674728549203,10,2019,1.3,71480.60388470492,29.0
+Female,Dual-purpose,Wedding dowry,Chick supply via air freight,17.72734505010011,11,2024,2.6,115688.62355647479,46.0
+Female,,Wedding dowry,Outside the city by sea,20.42467127488151,2,2022,2.1,64827.51886283842,23.0
+Female,Layer,Battery cage system,Outside the city by sea,25.84002399341789,2,2021,2.5,97454.13938265681,37.0
+Female,Dual-purpose,Free-range setup,Outside the city by sea,35.77250011208854,9,2021,2.0,89110.66885816856,34.0
+Male,Dual-purpose,Wedding dowry,Chick supply via air freight,15.306022411632952,2,2021,3.4,135606.25689168263,52.0
+Female,Dual-purpose,Wedding dowry,Outside the city by sea,49.64046266149885,10,2024,2.9,151278.7806278676,58.0
+Female,Layer,Free-range setup,Chick supply via air freight,15.747222262108822,5,2024,1.4,25526.963488902482,8.0
+Female,Dual-purpose,Wedding dowry,Outside the city by sea,14.181104853588913,7,2024,1.7,84065.6417791932,34.0
+Male,Dual-purpose,Thanksgiving,Outside the city by sea,35.354435856347834,9,2021,2.5,106801.34470862913,42.0
+Female,,Battery cage system,,27.231406778543263,8,2022,1.8,125234.88942176866,50.0
+,Broiler,Battery cage system,Chick supply via road transport,45.24206139224241,11,2024,3.1,99982.77388255787,34.0
+Male,Broiler,Thanksgiving,Outside the city by sea,50.80130127452644,4,2020,1.2,53159.222697343175,18.0
+Female,Broiler,Battery cage system,Outside the city by sea,50.70064114304712,4,2022,1.5,53572.19813481514,23.0
+Male,Dual-purpose,Wedding dowry,Chick supply via road transport,49.285108044119255,1,2019,3.9,146335.2513293463,53.0
+Female,Layer,Battery cage system,Outside the city by sea,24.58238118136685,2,2022,2.9,47448.15397811719,7.0
+Female,Dual-purpose,Wedding dowry,Chick supply via road transport,56.00396887655007,10,2022,3.1,113411.41994637712,41.0
+Female,Layer,Free-range setup,Chick supply via road transport,42.83697425885256,10,2024,2.7,80327.40187532676,24.0
+Female,Dual-purpose,Thanksgiving,Chick supply via road transport,54.06321718837126,1,2024,1.9,116413.55774949814,50.0
+Female,Broiler,Thanksgiving,Outside the city by sea,14.331080331740557,11,2019,3.8,61046.7372009279,8.0
+Female,Layer,Wedding dowry,Chick supply via road transport,48.2634888871296,7,2020,3.0,151494.49061809626,55.0
+Male,Layer,Battery cage system,Chick supply via air freight,50.02605590708494,8,2022,3.8,94185.80719780171,29.0
+Male,Broiler,Thanksgiving,Chick supply via air freight,20.228221663446075,5,2024,2.5,60772.48739299614,19.0
+Female,Layer,Wedding dowry,Chick supply via air freight,56.26373695778701,9,2019,3.3,148266.9223855885,54.0
+Male,Layer,Free-range setup,Chick supply via air freight,-27.03982781863101,3,2022,2.3,130897.86072865356,50.0
+Male,Dual-purpose,Wedding dowry,Chick supply via road transport,20.56125246134437,9,2022,3.1,68385.69986423365,20.0
+Female,Broiler,Battery cage system,Chick supply via road transport,45.53369165219357,2,2019,3.3,130899.06591452072,50.0
+Male,Broiler,Free-range setup,Outside the city by sea,13.663395185436226,10,2022,2.0,80591.07695569747,31.0
+Male,Dual-purpose,Thanksgiving,Chick supply via road transport,19.94125911120464,6,2023,3.6,149277.74744482862,60.0
+Male,,Battery cage system,Outside the city by sea,19.38519306230681,11,2019,1.0,19406.740267579007,7.0
+,Broiler,,,28.71594077404969,12,2020,2.7,45979.29616623966,12.0
+Female,Layer,Free-range setup,Chick supply via air freight,31.186984646816107,9,2021,3.4,66161.01217447936,18.0
+Male,Broiler,Free-range setup,Chick supply via road transport,49.53371421561555,8,2021,2.2,127826.5755630661,53.0
+Female,Broiler,Thanksgiving,Outside the city by sea,54.16367437603711,7,2024,1.1,24171.073662682604,6.0
+Female,Broiler,Thanksgiving,Chick supply via air freight,-26.903855463608554,6,2023,3.1,136752.5024640704,49.0
+Male,Broiler,Free-range setup,Chick supply via road transport,40.80510079842736,5,2020,3.6,89008.22979630604,29.0
+Female,Broiler,Wedding dowry,Chick supply via air freight,41.226412155183525,6,2023,1.3,63921.61199238292,23.0
+Female,Dual-purpose,Wedding dowry,Chick supply via road transport,15.390041150408026,11,2024,3.3,99930.05577887245,34.0
+Male,Broiler,Free-range setup,Chick supply via road transport,17.91669162806422,12,2023,3.4,149752.68145173782,58.0
+Female,Dual-purpose,Thanksgiving,Outside the city by sea,26.92638222690332,4,2022,1.5,126374.09746083301,54.0
+,Layer,Thanksgiving,Chick supply via road transport,44.04367817372355,5,2019,2.0,58386.389892188505,22.0
+Male,Broiler,Thanksgiving,Chick supply via air freight,15.44503892385741,1,2022,3.6,131912.04873092024,47.0
+Male,Dual-purpose,Wedding dowry,Chick supply via road transport,31.078206762798136,7,2024,1.9,23832.26104106528,2.0
+Female,Layer,Thanksgiving,Chick supply via road transport,16.85610725888902,9,2022,2.6,60462.256320040746,16.0
+,Layer,Free-range setup,Chick supply via road transport,15.490295394260407,12,2019,1.8,127445.84321953909,54.0
+Male,Broiler,Free-range setup,Outside the city by sea,-32.77907886345971,5,2021,1.7,147276.50069955448,59.0
+Female,Layer,Wedding dowry,Chick supply via road transport,26.780262681207542,6,2021,3.7,81811.30007874341,24.0
+Male,Broiler,Battery cage system,Outside the city by sea,23.47877272373678,3,2023,2.5,36345.015224990915,7.0
+Male,Dual-purpose,Wedding dowry,Chick supply via air freight,28.9777382934213,6,2023,4.0,60884.29736787618,12.0
+Female,Layer,Thanksgiving,Outside the city by sea,27.34972302179415,11,2024,2.9,70222.61440419873,22.0
+Male,Dual-purpose,Free-range setup,Chick supply via air freight,57.77587131192487,6,2021,1.9,97813.0643634674,41.0
+Female,Layer,Thanksgiving,Outside the city by sea,16.9575791656222,11,2020,1.1,96945.08265553776,40.0
+Male,Dual-purpose,Battery cage system,Outside the city by sea,16.19836635944454,1,2022,2.5,44102.521239949274,6.0
+Male,Dual-purpose,Free-range setup,Chick supply via air freight,23.727987726673472,3,2020,2.0,63146.268531252616,23.0
+Male,Broiler,Battery cage system,Chick supply via air freight,49.73239620899911,3,2020,1.4,59838.222134478856,25.0
+Male,Layer,Battery cage system,Chick supply via air freight,40.92301115405132,8,2021,3.0,54357.07778193202,11.0
+Male,Broiler,Thanksgiving,Outside the city by sea,55.09275115408611,3,2019,3.4,149238.88477859515,59.0
+Female,,,Outside the city by sea,39.226400873472535,2,2022,3.1,138164.65908877755,52.0
+Male,Dual-purpose,,Chick supply via road transport,30.71737266245495,12,2024,1.7,126014.6151042565,54.0
+Female,,Battery cage system,,-29.018124112301106,9,2021,2.1,35421.27942501384,11.0
+Male,Layer,Free-range setup,Chick supply via road transport,37.41208318108327,10,2020,3.9,104737.52600665031,29.0
+Female,Broiler,Free-range setup,Chick supply via road transport,60.85716723178463,11,2023,2.5,37979.38836547761,2.0
+Male,Dual-purpose,Battery cage system,Outside the city by sea,25.038395930225764,3,2023,1.3,43936.05654757807,17.0
+Female,Dual-purpose,Thanksgiving,,39.92777469281228,1,2019,2.1,131061.49220032008,56.0
+Female,Broiler,Wedding dowry,Chick supply via air freight,35.60527440979225,8,2020,2.2,127429.32695362452,52.0
+Female,Broiler,Thanksgiving,Chick supply via road transport,46.85769709124811,6,2022,1.1,124672.28394993512,56.0
+Female,Layer,Battery cage system,Chick supply via road transport,54.131812197322894,5,2024,2.1,124292.72136336415,50.0
+Female,Layer,Thanksgiving,Outside the city by sea,31.752183167319924,12,2021,3.2,130051.02269383175,44.0
+Female,Dual-purpose,Thanksgiving,Chick supply via air freight,26.02693524562041,5,2024,3.2,113115.26386252975,41.0
+,Broiler,Free-range setup,Chick supply via road transport,-54.07356732285805,12,2021,2.3,91008.51377730773,36.0
+Male,Broiler,Wedding dowry,Chick supply via road transport,59.67400479927574,9,2021,1.1,54103.40385992736,25.0
+Male,Dual-purpose,Thanksgiving,Chick supply via air freight,11.95663771418413,3,2022,2.8,94345.34980029041,35.0
+Female,Broiler,Battery cage system,Outside the city by sea,46.72984248876431,6,2021,2.1,102834.36513563101,41.0
+Female,Layer,Free-range setup,Outside the city by sea,53.3993879745228,8,2020,1.9,55972.78931758894,14.0
+Male,Layer,Battery cage system,Outside the city by sea,-36.52663932292953,5,2024,3.5,120411.94350481914,44.0
+Female,Dual-purpose,Wedding dowry,Chick supply via road transport,-32.64148295792952,1,2021,3.3,122118.9397581945,44.0
+Male,Layer,Wedding dowry,,30.84603904019262,4,2023,1.1,90917.88551963624,40.0
+Male,,Free-range setup,,51.00221564985814,4,2022,2.6,99941.96636724041,34.0
+Male,Broiler,Free-range setup,Chick supply via air freight,20.139332273147808,11,2023,1.7,79634.66212936811,25.0
+,Dual-purpose,Battery cage system,Chick supply via road transport,-21.121174442698063,5,2019,3.0,43345.6561353984,8.0
+Female,Layer,Wedding dowry,Outside the city by sea,27.63140903488546,10,2020,2.7,98552.80278740889,37.0
+Male,Dual-purpose,Wedding dowry,Chick supply via road transport,-51.79126119661535,7,2020,2.2,133220.80438534537,53.0
+Female,Broiler,Wedding dowry,Outside the city by sea,30.39712732480503,7,2020,1.7,130409.45744813155,55.0
+Female,Broiler,Thanksgiving,Outside the city by sea,11.81782414577314,9,2021,2.2,71233.53662868017,20.0
